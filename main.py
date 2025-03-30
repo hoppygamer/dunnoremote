@@ -96,7 +96,7 @@ def main_app():
         main_window.destroy()
 
     main_window = tk.Tk()
-    main_window.title("remote connect")
+    main_window.title("dunnoremote")
     main_window.geometry("400x300")
     main_window.resizable(False, False)
 
